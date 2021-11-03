@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: 17Game
+EMU_LANDURL: 127.0.0.1:7000/xj_login/xj_login
+MIDlet-Version: 1.9.9
+MIDlet-1: Long Tinh,/icon.png,game.CMidlet
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Icon: /icon.png
+MIDlet-Name: xianjing_online_normal Midlet Suite
+MicroEdition-Profile: MIDP-2.0
+
